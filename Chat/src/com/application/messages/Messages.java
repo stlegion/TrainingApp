@@ -1,4 +1,4 @@
-package chat;
+package com.application.messages;
 
 import java.util.*;
 
